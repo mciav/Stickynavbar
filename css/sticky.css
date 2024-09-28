@@ -39,7 +39,8 @@ body {
 
 .section {
     padding: 100px;
-    height: 200vh; /* Simulate different sections */
+    height: auto;
+    min-height: 100px; /* Simulate different sections */
 }
 
 .section:nth-child(even) {
