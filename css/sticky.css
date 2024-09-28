@@ -12,7 +12,7 @@ body {
     position: sticky;
     top: 0;
     background-color: #ffffff;
-    color: ##171717;
+    color: #171717;
     padding: 10px 0;
     z-index: 1000;
 }
@@ -25,18 +25,18 @@ body {
 
 .sticky-navbar ul li {
     margin: 0;
-    color: #171717;
+    color: #ffffff;
 }
 
 .sticky-navbar ul li a {
-    color: #171717;
+    color: #ffffff;
     text-decoration: none;
     padding: 10px 20px;
     transition: background-color 0.3s ease;
 }
 
 .sticky-navbar ul li a.active {
-    background-color: #ffffff; /* Highlight the active link */
+    background-color: #171717; /* Highlight the active link */
     color: #171717;
 }
 
