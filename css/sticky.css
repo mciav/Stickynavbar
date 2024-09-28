@@ -20,8 +20,7 @@ body {
 .sticky-navbar ul {
     list-style: none;
     display: flex;
-    justify-content: center;
-    border: 1px solid #ccc; /* Border for the tabs */
+    justify-content: right;
 }
 
 .sticky-navbar ul li {
