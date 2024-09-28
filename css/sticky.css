@@ -11,8 +11,8 @@ body {
 .sticky-navbar {
     position: sticky;
     top: 0;
-    background-color: #ffffff;
-    color: #ffffff;
+    background-color: #171717;
+    color: ##171717;
     padding: 10px 0;
     z-index: 1000;
 }
@@ -25,19 +25,19 @@ body {
 
 .sticky-navbar ul li {
     margin: 0;
-    color: #ffffff;
+    color: #171717;
 }
 
 .sticky-navbar ul li a {
-    color: #000000;
+    color: #171717;
     text-decoration: none;
     padding: 10px 20px;
     transition: background-color 0.3s ease;
 }
 
 .sticky-navbar ul li a.active {
-    background-color: #696969; /* Highlight the active link */
-    color: #ffffff;
+    background-color: #ffffff; /* Highlight the active link */
+    color: #171717;
 }
 
 .section {
