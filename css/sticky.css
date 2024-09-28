@@ -38,13 +38,7 @@ body {
 .sticky-navbar ul li a.active {
     background-color: #696969; /* Highlight the active link */
     color: #ffffff;
-    
-/* }
-.sticky-navbar ul li:hover {
-  background:  #696969;
-  transition: background .3s;
-    transform: scale(1.05); 
-} */
+}
 
 .section {
     padding: 100px;
