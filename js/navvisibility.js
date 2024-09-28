@@ -7,8 +7,8 @@ window.addEventListener('scroll', function() {
     const sectionTwoTop = sectionTwo.offsetTop;
 
     if (window.scrollY >= sectionTwoTop) {
-        navbar.style.display = 'flex'; // Show navbar in second section
+        sticky-navbar.style.display = 'flex'; // Show navbar in second section
     } else {
-        navbar.style.display = 'none'; // Hide navbar in first section
+        sticky-navbar.style.display = 'none'; // Hide navbar in first section
     }
 });
