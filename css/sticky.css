@@ -41,6 +41,7 @@ body {
 .sticky-navbar ul li a:hover {
   background-color: #555;
   color: black;
+}
 
 .section {
     padding: 100px;
