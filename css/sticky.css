@@ -47,9 +47,9 @@ body {
 }
 
 .section:nth-child(even) {
-    background-color: #ffffff;
+    background-color: #171717;
 }
 
 .section:nth-child(odd) {
-    background-color: #ffffff;
+    background-color: #171717;
 }
