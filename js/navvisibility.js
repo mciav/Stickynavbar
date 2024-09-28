@@ -1,5 +1,5 @@
 window.addEventListener('scroll', function() {
-    const navbar = document.getElementById('navbar');
+    const sticky-navbar = document.getElementById('sticky-navbar');
     const sectionOne = document.querySelector('.section:nth-of-type(1)');
     const sectionTwo = document.querySelector('.section:nth-of-type(2)');
 
