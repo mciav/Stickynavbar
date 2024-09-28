@@ -37,7 +37,7 @@ body {
 
 .sticky-navbar ul li a.active {
     background-color: #171717; /* Highlight the active link */
-    color: #171717;
+    color: #fffff;
 }
 
 .section {
