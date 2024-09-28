@@ -36,13 +36,14 @@ body {
 }
 
 .sticky-navbar ul li a.active {
-    background-color: #708090; /* Highlight the active link */
+    background-color: #FFF5EE; /* Highlight the active link */
     color: #ffffff;
     
 }
 .sticky-navbar ul li:hover {
-  background:  #708090;
+  background:  #FFF5EE;
   transition: background .3s;
+    transform: scale(1.05); 
 }
 
 .section {
@@ -52,9 +53,9 @@ body {
 }
 
 .section:nth-child(even) {
-    background-color: #f4f4f4;
+    background-color: #ffffff;
 }
 
 .section:nth-child(odd) {
-    background-color: #ddd;
+    background-color: #ffffff;
 }
