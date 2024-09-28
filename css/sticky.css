@@ -39,7 +39,7 @@ body {
 
 .section {
     padding: 100px;
-    height: 100vh; /* Simulate different sections */
+    height: 200vh; /* Simulate different sections */
 }
 
 .section:nth-child(even) {
