@@ -5,13 +5,13 @@
 }
 
 body {
-    font-family: Garamond, sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .sticky-navbar {
     position: sticky;
     top: 0;
-    background-color: #333;
+    background-color: #ffffff;
     padding: 10px 0;
     z-index: 1000;
 }
@@ -38,9 +38,9 @@ body {
 }
 
 .section {
-    padding: 200px;
-    height:auto;
-    min-height: 200px; /* Simulate different sections */
+    padding: 100px;
+    height: auto;
+    min-height: 500px; /* Simulate different sections */
 }
 
 .section:nth-child(even) {
