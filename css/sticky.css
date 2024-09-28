@@ -19,8 +19,8 @@ body {
 
 .sticky-navbar ul {
     list-style: none;
-    display: flex;
-    justify-content: right;
+    display: none;
+    justify-content: center;
 }
 
 .sticky-navbar ul li {
