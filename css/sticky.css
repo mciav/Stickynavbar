@@ -6,7 +6,6 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    color: black;
 }
 
 .sticky-navbar {
@@ -20,7 +19,7 @@ body {
 .sticky-navbar ul {
     list-style: none;
     display: flex;
-    justify-content: space-around;
+    justify-content: end;
 }
 
 .sticky-navbar ul li {
@@ -36,7 +35,12 @@ body {
 
 .sticky-navbar ul li a.active {
     background-color: #555; /* Highlight the active link */
+    color: black;
 }
+
+.sticky-navbar ul li a:hover {
+  background-color: #555;
+  color: black;
 
 .section {
     padding: 100px;
