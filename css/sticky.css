@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: Georgia, sans-serif;
+    font-family: Garamond, sans-serif;
 }
 
 .sticky-navbar {
@@ -38,9 +38,9 @@ body {
 }
 
 .section {
-    padding: 100px;
-    height: auto;
-    min-height: 100px; /* Simulate different sections */
+    padding: 200px;
+    height:auto;
+    min-height: 200px; /* Simulate different sections */
 }
 
 .section:nth-child(even) {
