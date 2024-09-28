@@ -36,12 +36,12 @@ body {
 }
 
 .sticky-navbar ul li a.active {
-    background-color: #ddd; /* Highlight the active link */
+    background-color: #708090; /* Highlight the active link */
     color: #ffffff;
+    
 }
-
-.section li:hover {
-  background: #ddd;
+.sticky-navbar ul li:hover {
+  background:  #708090;
   transition: background .3s;
 }
 
