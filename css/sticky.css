@@ -19,7 +19,7 @@ body {
 
 .sticky-navbar ul {
     list-style: none;
-    display: none;
+    display: flex;
     justify-content: center;
 }
 
